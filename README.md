@@ -1,4 +1,7 @@
 # huffman
+
+[![Travis CI](https://travis-ci.org/fschutt/huffman.svg?branch=master)](https://travis-ci.org/fschutt/huffman)
+
 Learning Huffman coding
 
 # Installation
