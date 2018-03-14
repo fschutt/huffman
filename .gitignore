@@ -1,4 +1,6 @@
 target/
+doc/
+build/
 
 # Prerequisites
 *.d
