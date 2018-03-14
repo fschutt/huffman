@@ -1,0 +1,2 @@
+# huffman
+Learning Huffman coding
